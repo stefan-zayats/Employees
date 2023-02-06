@@ -1,1 +1,1 @@
-https://stefan-zayats.github.io/tree/main/my-app/public
+https://stefan-zayats.github.io/Employees/
